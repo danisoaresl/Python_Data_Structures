@@ -1,5 +1,5 @@
 # exerc_Tuplas_Listas_Dici
 
-# Exercícios Tuplas, Listas e Dicionários | treinamento Python
+# Meus EXERCICIOS Tuplas, Listas e Dicionários | praticando Python
 
 # Bootcamp Back-End Python e Django | WoMakersCode
